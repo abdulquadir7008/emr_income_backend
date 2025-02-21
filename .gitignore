@@ -1,0 +1,5 @@
+node_modules/
+.vercel
+.env
+oldindex.js
+Orginalindex.js
