@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "npm install --legacy-peer-deps"
+    "test": "echo \"Error: no include/test.js specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
@@ -13,7 +12,7 @@
     "@sendgrid/mail": "^8.1.4",
     "@vercel/blob": "^0.27.1",
     "bcrypt": "^5.1.1",
-    "cloudinary": "^2.5.1",
+    "cloudinary": "^1.41.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.19.2",
